@@ -4,10 +4,21 @@ A battle royal for ai
 # Introduction
 Battle royai is a battle royal playing with 'Robot' likes BB8 in top view. Each client control one BB8 at a time.
 A game last around 1 to 5 minutes. The log of the game need to be saved.
+
 ## Team
+- Valentin Chapuis
+- Yannis Charalambidis
+- Baptiste Ruhoff
+- Luca Da Silva
+- Tom Marti
+
 ## Context
+Hes-SO Summer 2024
+
 ## Objectif
+
 ## But
+Learn reinforcement learning throught a simple battle royal.
 
 ## Constraint
 ### Time
